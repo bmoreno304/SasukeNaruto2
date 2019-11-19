@@ -41,5 +41,5 @@ j.classList.remove("disappear");
 }
 
 function addText () {
-	document.getElementById("text").innerHTML = "PEACE";
+	document.getElementById("text").innerHTML = "FRIENDSHIP!";
 }
